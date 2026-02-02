@@ -17,12 +17,12 @@ const siteConfig = {
       'Summarize your education or certifications briefly and highlight your practical work.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    tagline: 'do it love it.',
+    location: 'banglore, india',
   },
 
   seo: {
-    title: 'Your Name – Your Title',
+    title: 'kalpanadevi D – Your Title',
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
